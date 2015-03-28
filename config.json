@@ -15,7 +15,7 @@
     {
       "targetType": "console",
       "targetConfig": {
-        "level" : "info"
+        "level" : "debug"
       }
     }
   ]
